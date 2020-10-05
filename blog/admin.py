@@ -12,4 +12,4 @@ class PostAdmin(admin.ModelAdmin):
     ordering = ("status", "publish")
 
 
-# Register your models here.
+
