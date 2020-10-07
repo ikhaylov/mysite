@@ -124,7 +124,7 @@ STATIC_URL = '/static/'
 
 EMAIL_HOST = "smtp.mail.ru"
 EMAIL_HOST_USER = "sonikry.99@mail.ru"
-EMAIL_HOST_PASSWORD = "1999.Sonikry"
+EMAIL_HOST_PASSWORD = "fuck"
 EMAIL_PORT = 2525
 EMAIL_USE_TLS = True
 # EMAIL_USE_SSL = True
